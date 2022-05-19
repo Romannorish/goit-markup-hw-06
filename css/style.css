@@ -221,7 +221,7 @@ a {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(/images/Img.png)   
+    background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/Img.png)   
 }
 .main-title {
     font-family: Roboto;
@@ -880,7 +880,7 @@ margin: -1px;
 }
 
 .modal-check:checked + .agreement-text::before{
-background-image: url(/images/icon\ check.png);
+background-image: url(../images/icon\ check.png);
 border: none;
 }
 
